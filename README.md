@@ -1,4 +1,4 @@
-# GTE Rides- Bike Purchase Analysis
+# Hotel-Bookings Analysis
 
 ![](https://github.com/analyst-01/Hotel-Bookings/blob/main/hotelpic.jpg)
 ___
