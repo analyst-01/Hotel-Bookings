@@ -1,6 +1,6 @@
 # Hotel-Bookings Analysis
 
-![](hotelphoto.jpg)
+![](https://github.com/analyst-01/Hotel-Bookings/blob/main/hotelphoto.jpg)
 -------------------
 ## Introduction
 This project was carried out to demonstrate how to import Excel file to SQL Server for manipulations, and then exported to Power BI for reports and interactive dashboard.
