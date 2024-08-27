@@ -1,6 +1,6 @@
 # Hotel-Bookings Analysis
 
-![](https://github.com/analyst-01/Hotel-Bookings/blob/main/hotelpic.jpg)
+![](hotelphoto.jpg)
 ___
 ## Introduction
 This project was carried out to demonstrate how to import Excel file to SQL Server for manipulations, and then exported to Power BI for reports and interactive dashboard.
@@ -42,27 +42,22 @@ The dataset was checked for relevance to the evaluation questions. Also, the use
 - A column, revenue, was created.
 
 ## Analysis and Visualizations
-Pivot Tables were created from 4 columns: Age Group, Children, Income and Purchased Bike to summarise the desired data.
-To visualize the trends and patterns in the analysis, slicers, bar chart and line chart were used.
+Power BI was used for analysis for further analysis. Measures like average adr, total_nights and parking_space_percent were created.
+To visualize the trends and patterns in the analysis, Card, Line chart, Donut chart and table were used.
 
-### Pivot Tables 
+### Interactive Dashboard 
 
-![](p_table.png)   | ![](p_table2.png)
+![](https://github.com/analyst-01/Hotel-Bookings/blob/main/Screenshot%20(62).png)   
 
 ### Findings:
 
-- Out of 276 adults, 110 bought bikes. Out of 614 young adults, 332 bought bikes, and only 39 out of 110 youths bought bikes.
-- Adults and Youths with lower average incomes bought bikes while young adults with higher average incomes bought bikes.
-- It was observed that there were fewer children in the families of bike buyers compared to non-buyers. 
-
-### Interactive Dashboard 
-![](dashboard.png)
-
-You can interact with the dashboard [here](BikeProject.xlsx).
+- Revenues appeared to be increasing in August but declining in December.
+- 2019 revenue was the highest, followed by 2020 and that of 2018 was the lowest.
+- The yearly percentage increase in guests who came with personal cars was approximately 2%.
 
 ## Conclusion and Recommendations
 
 From the dataset, many questions could still be answered. As for this analysis, here are my recommendations based on the findings:
-1. GTE Bikes' marketing campaigns should  be targeted at adults with low incomes, and young adults with high incomes.
-2. The chance of bike sales is high if low-income adults and high-income young adults with children are targeted in the campaign.
-3. It is recommended that the cost of marketing to people between 30 years and below should not be too high because they averagely earn lower income compared to adults and young adults. Moreover, out of 110 youths surveyed, only about 35% of them bought bikes.
+1. It is advisable not to spend on parking space for now. The reason is because percentage increase in guests coming with personal cars was just about 2%.
+2. There should be less workers going on leave in August. 
+   
